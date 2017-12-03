@@ -1,5 +1,6 @@
 # web-230
 Introduction to Javascript
-#contributors
+
+# contributors
 Professor Krasso - Bellevue University
 Andrea Williams - Bellevue University
